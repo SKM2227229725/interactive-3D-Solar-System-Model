@@ -1,5 +1,6 @@
 ✨ Live Demo
-interactive-3-d-solar-system-model-dx4ci86yz.vercel.app
+<br>
+
 
 🚀 Features
 🪐 3D Visualization
