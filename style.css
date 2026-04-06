@@ -80,7 +80,7 @@ main {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 25px;
     margin-bottom: 25px;
     padding-bottom: 20px;
     border-bottom: 1px solid rgba(64, 156, 255, 0.2);
